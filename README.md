@@ -23,7 +23,7 @@
 | Replit Project    | https://replit.com/@wongyiksheng/WorkForce-Future-1                                                  |
 | Live Demo         | https://workforce-future.replit.app/                                                                 |
 | Slide Deck        | https://drive.google.com/file/d/1tG7CpmVL7ZWIOymMkycgat_Ojg1U6wtT/view?usp=sharing                   |
-| Demo Video        | https://www.youtube.com/watch?v=AdGutqiT2iY                                                          |
+| Demo Video        | https://drive.google.com/file/d/1YcVrcVtsr4-AnmLaYlxh8_iDnMOaQ8B_/view?usp=sharing                   |
 | Pitching Video    | *(to be added)*                                                                                      |
 
 ---
