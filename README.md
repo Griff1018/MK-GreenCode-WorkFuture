@@ -20,7 +20,6 @@
 | Resource          | Link                                                                                                 |
 | ----------------- | ---------------------------------------------------------------------------------------------------- |
 | GitHub Repository | https://github.com/Griff1018/MK-GreenCode-WorkFuture                                                 |
-| Replit Project    | https://replit.com/@wongyiksheng/WorkForce-Future-1                                                  |
 | Live Demo         | https://workforce-future.replit.app/                                                                 |
 | Slide Deck        | https://drive.google.com/file/d/1tG7CpmVL7ZWIOymMkycgat_Ojg1U6wtT/view?usp=sharing                   |
 | Demo Video        | https://drive.google.com/file/d/1YcVrcVtsr4-AnmLaYlxh8_iDnMOaQ8B_/view?usp=sharing                   |
@@ -120,7 +119,7 @@ Browser (static/) ──► Replit: FastAPI app (app/) ──► PostgreSQL (acc
 
 ### Run Online — Replit (Recommended)
 
-1. Open the [Replit Project](https://replit.com/@wongyiksheng/MK-Green-Hackathon), or import this repository via **Create Repl → Import from GitHub**.
+1. In Replit, import this repository via **Create Repl → Import from GitHub**.
 2. In **Tools → Database**, add a PostgreSQL database (Replit sets `DATABASE_URL`).
 3. Open the **Secrets** tab (🔒) and add the variables listed in `.env.example`:
    - `ADMIN_TOKEN` (any long random string), `TEST_ACCOUNTS` (e.g. `alice:Alice,bob:Bob`)
