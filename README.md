@@ -91,6 +91,7 @@ Workforce Futures turns public trend signals into a personal, explainable plan. 
 │   ├── SDC2026_MKGreenCode_Preliminary.pdf      # Preliminary submission
 │   ├── SDC2026_MKGreenCode_TechDeclaration.pdf  # Technology declaration
 │   └── SDC2026_MKGreenCode_Replit_POU.pdf       # Replit proof of use
+|   └── SDK2026_MKGreenCode_PitchSlideDeck.pdf   # Pitching slide deck
 ├── scripts/                 # Replit build.sh, start.sh, refresh.sh, share-ngrok.bat
 ├── tests/                   # Unit tests (pytest)
 ├── .env.example             # Example environment variables
